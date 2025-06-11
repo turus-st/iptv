@@ -194,9 +194,9 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.it" tvg-logo="https://www.bbcwwpartners.com/images/travel/wntp-logo-wn.png" group-title="News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.raiplaysound.it/assets/img/canali/logo-rairadio1.svg" group-title="Radio",Rai Radio 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/93/RAI_radio1.png?20120414175733" group-title="Radio",Rai Radio 1
 https://la7live-secure.akamaized.net/RAIRadio1/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.raiplaysound.it/assets/img/canali/logo-rairadio2.svg" group-title="Radio",Rai Radio 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_3_-_Logo_2017.svg/2560px-Rai_Radio_3_-_Logo_2017.svg.png" group-title="Radio",Rai Radio 3
 https://la7live-secure.akamaized.net/RAIRadio3/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/hFbWr3ydEXfeoX1BS18GG7OEkXW_jNCDBhWu5sVoBAVv7fdpVUcIRKSNlRery4EbiUzQsRK39OU=s160-c-k-c0x00ffffff-no-rj" group-title="sat",Camera dei Deputati
 https://www.youtube.com/watch?v=Cnjs83yowUM
