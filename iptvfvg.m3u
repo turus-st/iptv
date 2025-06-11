@@ -199,8 +199,6 @@ https://la7live-secure.akamaized.net/RAIRadio1/Live.m3u8
 #EXTINF:-1,Rai Radio 3
 https://la7live-secure.akamaized.net/RAIRadio3/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/hFbWr3ydEXfeoX1BS18GG7OEkXW_jNCDBhWu5sVoBAVv7fdpVUcIRKSNlRery4EbiUzQsRK39OU=s160-c-k-c0x00ffffff-no-rj" group-title="sat",Camera dei Deputati
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.youtube.com/watch?v=Cnjs83yowUM
 #EXTINF:-1 tvg-id="" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kuWqJTQYB5earQtR1bMmun99HvofpjYQKNYbZdS4hNaA=s160-c-k-c0x00ffffff-no-rj" group-title="sat",Senato
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.youtube.com/watch?v=loiN1npW2MM
