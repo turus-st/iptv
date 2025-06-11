@@ -204,6 +204,6 @@ https://www.youtube.com/watch?v=Cnjs83yowUM
 https://www.youtube.com/watch?v=sPbVV3E737E
 #EXTINF:-1 tvg-id="" tvg-chno="92" tvg-logo="http://www.rai.it/dl/RaiParlamento/images/banner_sito_tgparlamento_2014.png" group-title="sat",Rai Parlamento
 https://www.youtube.com/watch?v=loiN1npW2MM
-#EXTINF:-1 tvg-id="" tvg-chno="93" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/3/31/20150113221626%21Rai_FVG.jpg" group-title="Rai",Rai 3 FVG
+#EXTINF:-1 tvg-id="tgr-fvg" tvg-chno="93" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/3/31/20150113221626%21Rai_FVG.jpg" group-title="Rai",Rai 3 FVG
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+https://odmsto.com/returned/668651.m3u8
