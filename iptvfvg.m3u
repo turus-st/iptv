@@ -141,10 +141,10 @@ https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Radio",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-id="WebtvFVG" tvg-chno="80" tvg-logo=tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" group-title="FVG",WebTV FVG
+#EXTINF:-1 tvg-id="WebtvFVG" tvg-chno="80" tvg-logo=tvg-logo="http://www.fvg.tv/WebTV/images/fvg.tv_logo.gif" group-title="FVG",WebTV FVG
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://linkwebtvstream.regione.fvg.it/hls-live/livepkgr/consiglio/diretta/livestream.m3u8
-#EXTINF:-1 tvg-id="Telequattro" tvg-chno="81" tvg-logo="http://www.fvg.tv/WebTV/images/fvg.tv_logo.gif" group-title="FVG",TeleQuattro
+#EXTINF:-1 tvg-id="Telequattro" tvg-chno="81" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" group-title="FVG",TeleQuattro
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefriuli" tvg-chno="82" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="FVG",Telefriuli
